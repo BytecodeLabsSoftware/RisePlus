@@ -6,6 +6,7 @@ Rise+ is not open source since I don't want people skidding new bypasses and stu
 
 This repository is to download releases or give us some feedback. Feel free to make an issue on here, whether it be a bug fix request or simple bypass suggestion.
 
+**The actual code for this project comes from a Rise 6.0 source code leak from 2023. I did not decompile Rise by any means.**
 ## How to use Rise+
 ### Step 1: Extract files from the zip file
 No explaination needed here, just move the files to a folder where Rise+ can actually be ran.
